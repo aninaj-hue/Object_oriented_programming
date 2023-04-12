@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Janina\OneDrive\Desktop\POO Cocei Janina anul II\asc\asc\main.cpp(68,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Janina\OneDrive\Desktop\POO Cocei Janina anul II\asc\asc\main.cpp(78,1): warning C4010: single-line comment contains line-continuation character
+  asc.vcxproj -> C:\Users\Janina\OneDrive\Desktop\POO Cocei Janina anul II\asc\x64\Debug\asc.exe
